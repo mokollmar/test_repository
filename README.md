@@ -1,4 +1,4 @@
-# Project Title: Test Repository
+# Test Repository
 
 This is only a test repository to check out and test some things. From here on everything is for testing.
 
@@ -16,13 +16,13 @@ This is only a test repository to check out and test some things. From here on e
 ## Introduction
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. 
 
-## Features
+## 🌟 Features
 - **Ease of Use:** Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - **High Performance:** Nullam nec diam tempor, placerat lectus nec, consequat ex.
 - **Customizable:** Integer et lacus nec arcu cursus cursus at ac augue.
 - **Responsive Design:** Fusce id magna vitae nunc convallis lacinia.
 
-## Installation
+## 📦 Installation
 To install Awesome Project, follow these steps:
 
 1. Clone the repository:
